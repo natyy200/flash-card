@@ -1,3 +1,5 @@
-## cartão usando JavaScript
+## Um quizz simples com 4 perguntas sobre programação
 
-https://cartao-umber.vercel.app/
+(clicando no cartão você pode verificar a resposta)
+
+https://flash-card-six-phi.vercel.app/
